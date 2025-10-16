@@ -1,6 +1,7 @@
 # Sticky Table of Contents with Scroll Highlight (Vanilla JS)
 
 Sticky TOC with scroll-based highlighting & smooth section navigation (Vanilla JS)
+Live Site URL: https://antonina-kachusova.github.io/Sticky-Table-of-Contents-with-Scroll-Highlight-Vanilla-JS/
 
 An interactive docs layout featuring a sticky Table of Contents that auto-highlights the section in view while you scroll and clicking on any TOC item smoothly scrolls the page to the corresponding section. Built with semantic HTML, modern Vanilla JS (IntersectionObserver / scroll logic), and CSS transitions. Great for practicing DOM geometry and smooth UX.
 
